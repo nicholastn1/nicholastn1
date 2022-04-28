@@ -1,6 +1,6 @@
 ### Hi there, I'm Nicholas Timbó
 
-- 🔭 I’m currently working with Ruby On Rails on a Web Developer position
+- 🔭 I’m Web Developer and I use Ruby On Rails
 - 😄 Pronouns: He/Him
 
 <div>
